@@ -13,7 +13,7 @@ export default function Home(){
     </nav> <br /> <br /><br /><br /><br /><br /><br />
         <div className="container">
         <span className="one">Hello</span> 
-          <span className="two">     I am</span>
+          <span className="two">     I'am</span>
         <h1 className="name">Maham Babar</h1>
            
         </div>
